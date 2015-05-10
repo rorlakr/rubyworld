@@ -7,10 +7,21 @@ title: 루비/레일스를 사용하는 서비스 모음
 
 - 최종 수정일: {{site.time | date: "%Y-%m-%d"}}
 
-## [서비스 목록](#articles)
-{: #articles}
+## [서비스 목록(운영중 + 가나다 순)](#services)
+{: #services}
 
-- [미투데이](http://me2day.net/){: .article data-tags="ruby" }
+- [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
+- [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
+- [에폴리아](http://www.epollia.com/){: .article data-tags="rails ing" }
+- [유에프오팩토리](http://ufofactory.org/){: .article data-tags="rails ing" }
+- [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
+- [응답하라 국회의원](http://www.heycongress.org/){: .article data-tags="rails ing" }
+- [채팅캣](http://chattingcat.com/){: .article data-tags="rails ing" }
+- [텀블벅](https://www.tumblbug.com/){: .article data-tags="rails ing" }
+- [파이브 락스](http://www.5rocks.io/){: .article data-tags="rails ing" }
+- [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
+- [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
+- [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 
 
 ## 기여하기

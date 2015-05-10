@@ -13,7 +13,7 @@
         return '';
       }
       return tags.split(" ").map(function (tag) {
-        var trans = { translated: "번역", movie: "동영상" };
+        var trans = { ing: "운영중", shutdown: "서비스종료" };
         return '<a href="#' + tag + '" class="tag tag-' + tag + '">' + (trans[tag] || tag) + '</a>';
       }).join(" ");
     },
