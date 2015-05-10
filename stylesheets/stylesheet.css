@@ -83,13 +83,10 @@ table {
 .tag-rails {
   background-color: #A70008;
 }
-.tag-gem {
+.tag-shutdown {
   background-color: #FD4024;
 }
-.tag-ci {
-  background-color: #1F173A;
-}
-.tag-test {
+.tag-ing {
   background-color: #3D921F;
 }
 .tag-disable {
