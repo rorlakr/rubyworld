@@ -1,5 +1,6 @@
-name: 루비/레일스를 사용하는 서비스 모임
+name: 루비/레일스를 사용하는 서비스 모음
 url: https://rorlakr.github.io/rubyworld
+description: 루비/레일스를 사용하는 서비스를 모아두었습니다. 이 페이지에 여러분의 서비스도 추가해보세요.
 markdown: kramdown
 highlighter: pygments
 timezone: Asia/Seoul
