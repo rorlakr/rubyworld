@@ -12,6 +12,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
+- [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails ing" }
 - [유에프오팩토리](http://ufofactory.org/){: .article data-tags="rails ing" }
 - [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
