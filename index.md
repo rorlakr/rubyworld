@@ -9,7 +9,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 
 ## [서비스 목록(운영중 + 가나다 순)](#services)
 {: #services}
-
+- [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
