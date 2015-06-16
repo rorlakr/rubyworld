@@ -12,6 +12,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
+- [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails ing" }
