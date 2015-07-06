@@ -19,11 +19,13 @@ title: 루비/레일스를 사용하는 서비스 모음
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
+- [아임8](http://www.im8.net/){: .article data-tags="rails ing" }
 - [연두](http://yeondoo.kr/){: .article data-tags="rails ing" }
 - [왓챠](https://watcha.net/){: .article data-tags="rails ing" }
 - [유에프오팩토리](http://ufofactory.org/){: .article data-tags="rails ing" }
 - [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
 - [응답하라 국회의원](http://www.heycongress.org/){: .article data-tags="rails ing" }
+- [이음](http://www.i-um.com/){: .article data-tags="rails ing"}
 - [잡플래닛](https://www.jobplanet.co.kr/){: .article data-tags="rails ing" }
 - [증권플러스 인사이트](http://insight.stockplus.com/){: .article data-tags="rails ing" }
 - [채팅캣](http://chattingcat.com/){: .article data-tags="rails ing" }
