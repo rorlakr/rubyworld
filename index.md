@@ -37,6 +37,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 - [파크 히어](http://www.parkhere.co.kr){: .article data-tags="rails ing" }
 - [판교장터](https://medium.com/n42-corp){: .article data-tags="rails ing" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails ing" } 
+- [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails ing" }
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
