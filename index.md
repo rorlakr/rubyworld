@@ -13,6 +13,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
 - [모아폼](http://www.moaform.com/){: .article data-tags="rails ing"}
+- [밸류옵션](http://www.valuepotion.com/){: .article data-tags="rails ing"}
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
