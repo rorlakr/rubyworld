@@ -38,12 +38,15 @@ title: 루비/레일스를 사용하는 서비스 모음
 - [판교장터](https://medium.com/n42-corp){: .article data-tags="rails ing" }
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails ing" } 
-- [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails ing" }
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 
+## [레일스를 사용하는 회사](#corp)
+{: #corp}
+- [휴레이포지티브](http://www.huray.net/){: .corp }
+  - 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
 
 ## 기여하기
 
