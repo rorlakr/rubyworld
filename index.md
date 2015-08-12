@@ -20,6 +20,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
+- [아이엠스쿨](http://www.iamschool.net/){: .article data-tags="rails ing" }
 - [아임8](http://www.im8.net/){: .article data-tags="rails ing" }
 - [연두](http://yeondoo.kr/){: .article data-tags="rails ing" }
 - [왓챠](https://watcha.net/){: .article data-tags="rails ing" }
