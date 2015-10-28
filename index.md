@@ -12,7 +12,6 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [라인와우](http://wow.line.me/){: .article data-tags="rails ing"}
 - [리노트](http://intro.renote.me/){: .article data-tags="rails ing"}
-- [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
 - [모아폼](http://www.moaform.com/){: .article data-tags="rails ing"}
@@ -20,6 +19,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
+- [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing"}
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
