@@ -19,6 +19,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
+- [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing"}
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
@@ -54,7 +55,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 ## [레일스를 사용하는 회사](#corp)
 {: #corp}
 - [휴레이포지티브](http://www.huray.net/){: .corp }
-  - 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
+- 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
 
 ## 기여하기
 
