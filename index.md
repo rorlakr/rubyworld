@@ -55,7 +55,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 ## [레일스를 사용하는 회사](#corp)
 {: #corp}
 - [휴레이포지티브](http://www.huray.net/){: .corp }
-- 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
+  - 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
 
 ## 기여하기
 
