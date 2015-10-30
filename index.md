@@ -38,7 +38,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [카카오](http://www.kakao.com/){: .article data-tags="rails ing" }
 - [캐시슬라이드](http://www.cashslide.co.kr){: .article data-tags="rails ing" }
 - [클레비](https://www.clebee.net/){: .article data-tags="rails ing" }
-- [터칭](https://www.mytouching.com/){: .article data-tags="rails ing" }
+- [터칭](http://www.mytouching.com/){: .article data-tags="rails ing" }
 - [텀블벅](https://www.tumblbug.com/){: .article data-tags="rails ing" }
 - [테이스트로그](https://tastelog.net/){: .article data-tags="rails ing" }
 - [토스](http://cosmiccolor.github.io/){: .article data-tags="rails ing" }
