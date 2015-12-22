@@ -10,6 +10,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 ## [서비스 목록(운영중 + 가나다 순)](#services)
 {: #services}
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
+- [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
 - [리노트](http://intro.renote.me/){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
