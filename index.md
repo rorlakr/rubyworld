@@ -29,6 +29,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [연두](http://yeondoo.kr/){: .article data-tags="rails ing" }
 - [에이트크루즈](http://www.8cruz.com/){: .article data-tags="rails ing" }
 - [왓챠](https://watcha.net/){: .article data-tags="rails ing" }
+- [오픈칼리지](https://www.opencollege.kr/){: .article data-tags="rails ing" }
 - [유에프오팩토리](http://ufofactory.org/){: .article data-tags="rails ing" }
 - [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
 - [응답하라 국회의원](http://www.heycongress.org/){: .article data-tags="rails ing" }
