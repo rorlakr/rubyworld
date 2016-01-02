@@ -34,6 +34,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
 - [응답하라 국회의원](http://www.heycongress.org/){: .article data-tags="rails ing" }
 - [이음](http://www.i-um.com/){: .article data-tags="rails ing"}
+- [이젤](http://eazel.co.kr/){: .article data-tags="rails ing"}
 - [잡플래닛](https://www.jobplanet.co.kr/){: .article data-tags="rails ing" }
 - [정친](http://builtwith.com/jungch.in){: .article data-tags="rails ing" }
 - [증권플러스 인사이트](http://insight.stockplus.com/){: .article data-tags="rails ing" }
