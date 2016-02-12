@@ -16,5 +16,5 @@
   - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
   ```
 3. 해당 브랜치로 풀 리퀘스트를 만듭니다.
-4. GitHub에서 직접 [수정](index.md)하시거나, 페이지에 DUSQUS 댓글로 남기셔도
+4. GitHub에서 직접 [수정](index.md)하시거나, 페이지에 DISQUS 댓글로 남기셔도
    됩니다.
