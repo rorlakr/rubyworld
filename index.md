@@ -51,6 +51,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [파크 히어](http://www.parkhere.co.kr){: .article data-tags="rails ing" }
 - [판교장터](https://medium.com/n42-corp){: .article data-tags="rails ing" }
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
+- [해시코드](http://hashcode.co.kr/){: .article data-tags="rails ing" }
 - [헬로월드](http://tryhelloworld.co.kr/){: .article data-tags="rails ing" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails ing" }
 - [라인와우](http://wow.line.me/){: .article data-tags="rails shutdown"}
