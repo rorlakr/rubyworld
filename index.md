@@ -53,12 +53,12 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
 - [해시코드](http://hashcode.co.kr/){: .article data-tags="rails ing" }
 - [헬로월드](http://tryhelloworld.co.kr/){: .article data-tags="rails ing" }
-- [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails ing" }
 - [라인와우](http://wow.line.me/){: .article data-tags="rails shutdown"}
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
+- [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails shutdown" }
 
 ## [레일스를 사용하는 회사](#corp)
 {: #corp}
