@@ -27,14 +27,12 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
 - [아이엠스쿨](http://www.iamschool.net/){: .article data-tags="rails ing" }
 - [아임8](http://www.im8.net/){: .article data-tags="rails ing" }
-- [연두](http://yeondoo.kr/){: .article data-tags="rails ing" }
 - [왓챠](https://watcha.net/){: .article data-tags="rails ing" }
 - [오픈칼리지](https://www.opencollege.kr/){: .article data-tags="rails ing" }
 - [유에프오팩토리](http://ufofactory.org/){: .article data-tags="rails ing" }
 - [유저해빗](http://userhabit.io/){: .article data-tags="rails ing" }
 - [응답하라 국회의원](http://www.heycongress.org/){: .article data-tags="rails ing" }
 - [이음](http://www.i-um.com/){: .article data-tags="rails ing"}
-- [이젤](http://eazel.co.kr/){: .article data-tags="rails ing"}
 - [잡플래닛](https://www.jobplanet.co.kr/){: .article data-tags="rails ing" }
 - [정친](http://builtwith.com/jungch.in){: .article data-tags="rails ing" }
 - [증권플러스 인사이트](http://insight.stockplus.com/){: .article data-tags="rails ing" }
@@ -57,6 +55,8 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
+- [연두](http://yeondoo.kr/){: .article data-tags="rails shutdown" }
+- [이젤](http://eazel.co.kr/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails shutdown" }
 
