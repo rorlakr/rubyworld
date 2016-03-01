@@ -11,7 +11,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 {: #services}
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
-- [리노트](https://play.google.com/store/apps/details?id=co.riiid.renote){: .article data-tags="rails ing"}
+- 리노트([안드로이드](https://play.google.com/store/apps/details?id=co.riiid.renote),[iOS](https://itunes.apple.com/kr/app/renote/id968362146?mt=8)){: .article data-tags="rails backend ing"}
 - [리멤버](https://rememberapp.co.kr){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
@@ -60,11 +60,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [이젤](http://eazel.co.kr/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails shutdown" }
-
-## [레일스를 사용하는 회사](#corp)
-{: #corp}
-- [휴레이포지티브](http://www.huray.net/){: .corp }
-  - 링크의 홈페이지는 레일스가 아니지만 [기사](http://www.oss.kr/oss_repository10/623044)에서 레일스를 사용하고 있다고 밝힘
+- [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails backend" }
 
 ## 기여하기
 
