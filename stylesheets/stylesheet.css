@@ -84,10 +84,13 @@ table {
   background-color: #A70008;
 }
 .tag-shutdown {
-  background-color: #FD4024;
+  background-color: #7F7F7F;
 }
 .tag-ing {
   background-color: #3D921F;
+}
+.tag-backend {
+  background-color: #8000FF;
 }
 .tag-disable {
   background-color: #aaa;
