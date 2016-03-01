@@ -11,7 +11,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 {: #services}
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
-- 리노트([안드로이드](https://play.google.com/store/apps/details?id=co.riiid.renote),[iOS](https://itunes.apple.com/kr/app/renote/id968362146?mt=8)){: .article data-tags="rails backend ing"}
+- [리노트](){: .article data-tags="rails ing backend"}([안드로이드](https://play.google.com/store/apps/details?id=co.riiid.renote),[iOS](https://itunes.apple.com/kr/app/renote/id968362146?mt=8))
 - [리멤버](https://rememberapp.co.kr){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
@@ -52,6 +52,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
 - [해시코드](http://hashcode.co.kr/){: .article data-tags="rails ing" }
 - [헬로월드](http://tryhelloworld.co.kr/){: .article data-tags="rails ing" }
+- [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails backend" }
 - [라인와우](http://wow.line.me/){: .article data-tags="rails shutdown"}
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
@@ -60,7 +61,6 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [이젤](http://eazel.co.kr/){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails shutdown" }
-- [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails backend" }
 
 ## 기여하기
 
