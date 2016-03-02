@@ -11,7 +11,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 {: #services}
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
-- [리노트](javascript:;){: .article data-tags="rails ing backend"}([안드로이드](https://play.google.com/store/apps/details?id=co.riiid.renote),[iOS](https://itunes.apple.com/kr/app/renote/id968362146?mt=8))
+- [리노트](javascript:;){: .article data-tags="rails ing backend"}([안드로이드](https://play.google.com/store/apps/details?id=co.riiid.renote), [iOS](https://itunes.apple.com/kr/app/renote/id968362146?mt=8))
 - [리멤버](https://rememberapp.co.kr){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
@@ -20,7 +20,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
 - [볼링고](http://bollingo.com/){: .article data-tags="rails ing" }
 - [빙글](http://www.vingle.net/){: .article data-tags="rails ing" }
-- [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing"}
+- [산타 포 토익!](http://santatoeic.co/){: .article data-tags="rails ing backend"}([Android](https://goo.gl/6Ao55Z), [iOS](https://goo.gl/ptz6e9))
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스탬프팡](http://stampang.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
