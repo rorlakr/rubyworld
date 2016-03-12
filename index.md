@@ -39,6 +39,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [정친](http://www.jungch.in/){: .article data-tags="rails ing" }
 - [증권플러스 인사이트](http://insight.stockplus.com/){: .article data-tags="rails ing" }
 - [채팅캣](http://chattingcat.com/){: .article data-tags="rails ing" }
+- [카누](http://canoe.parti.xyz){: .article data-tags="rails ing" }
 - [카카오](http://www.kakao.com/){: .article data-tags="rails ing" }
 - [캐시슬라이드](http://www.cashslide.co.kr){: .article data-tags="rails ing" }
 - [클레비](https://www.clebee.net/){: .article data-tags="rails ing" }
