@@ -52,9 +52,11 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [파이브 락스](http://www.5rocks.io/){: .article data-tags="rails ing" }
 - [파크 히어](http://www.parkhere.co.kr){: .article data-tags="rails ing" }
 - [판교장터](https://medium.com/n42-corp){: .article data-tags="rails ing" }
+- [트라이헬로월드](http://tryhelloworld.co.kr){: .article data-tags="rails ing" }
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
 - [해시코드](http://hashcode.co.kr/){: .article data-tags="rails ing" }
 - [헬로월드](http://tryhelloworld.co.kr/){: .article data-tags="rails ing" }
+- [해시코드](http://hashcode.co.kr){: .article data-tags="rails ing" }
 - [휴레이포지티브](http://www.huray.net/){: .article data-tags="rails backend" }
 - [라인와우](http://wow.line.me/){: .article data-tags="rails shutdown"}
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
