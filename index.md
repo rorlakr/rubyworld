@@ -41,7 +41,8 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [채팅캣](http://chattingcat.com/){: .article data-tags="rails ing" }
 - [카누](http://canoe.parti.xyz){: .article data-tags="rails ing" }
 - [카카오그룹](http://www.kakao.com/group){: .article data-tags="rails ing" }
-- [카카오톡](http://www.kakao.com/services/8){: .article data-tags="rails ing frontend" }
+- [카카오아지트](https://agit.io){: .article data-tags="rails ing" }
+- [카카오톡](http://www.kakao.com/services/8){: .article data-tags="rails ing" }
 - [카카오택시](http://www.kakao.com/services/49){: .article data-tags="rails ing" }
 - [카카오플레이스](http://www.kakao.com/place){: .article data-tags="rails ing" }
 - [캐시슬라이드](http://www.cashslide.co.kr){: .article data-tags="rails ing" }
@@ -57,7 +58,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [파크 히어](http://www.parkhere.co.kr){: .article data-tags="rails ing" }
 - [판교장터](https://medium.com/n42-corp){: .article data-tags="rails ing" }
 - [플러닝](http://flearning.net){: .article data-tags="rails ing" }
-- [플레인](http://www.kakao.com/services/44){: .article data-tags="rails ing" }
+- [플레인](http://www.kakao.com/services/44){: .article data-tags="rails backend ing" }
 - [해먹남녀](http://haemukja.com/){: .article data-tags="rails ing" }
 - [해시코드](http://hashcode.co.kr/){: .article data-tags="rails ing" }
 - [헬로월드](http://tryhelloworld.co.kr/){: .article data-tags="rails ing" }
