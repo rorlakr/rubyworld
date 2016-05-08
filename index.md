@@ -69,6 +69,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [라인와우](http://wow.line.me/){: .article data-tags="rails shutdown"}
 - [미투데이](http://me2day.net/){: .article data-tags="rails shutdown" }
 - [스프링노트](http://www.springnote.com/){: .article data-tags="rails shutdown" }
+- [야미스토리](http://yummystory.com/){: .article data-tags="rails backend shutdown" }
 - [에폴리아](http://www.epollia.com/){: .article data-tags="rails shutdown" }
 - [연두](http://yeondoo.kr/){: .article data-tags="rails shutdown" }
 - [이젤](http://eazel.co.kr/){: .article data-tags="rails shutdown" }
