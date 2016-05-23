@@ -9,6 +9,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 
 ## [서비스 목록(운영중 + 가나다 순)](#services)
 {: #services}
+- [강남역 10번 출구](http://exit10.me/){: .article data-tags="rails ing"}
 - [국민의 편지](http://assembly.email/){: .article data-tags="rails ing"}
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
