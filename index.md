@@ -14,6 +14,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [그루미](http://gurume.kr/){: .article data-tags="rails ing"}
 - [노일베](http://noilbe.com/){: .article data-tags="rails ing"}
 - [누구뽑지](http://whotovote.kr/){: .article data-tags="rails ing"}
+- [더누보](http://the-nuvo.com/){: .article data-tags="rails ing"}
 - [대나무숲](https://bamboofo.rest/){: .article data-tags="rails ing"}
 - [리멤버](https://rememberapp.co.kr){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
