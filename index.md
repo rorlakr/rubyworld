@@ -19,6 +19,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [리멤버](https://rememberapp.co.kr){: .article data-tags="rails ing"}
 - [마이리얼트립](https://www.myrealtrip.com/){: .article data-tags="rails ing"}
 - [망고플레이트](http://www.mangoplate.com/){: .article data-tags="rails ing"}
+- [맺음](http://www.maezeum.net/){: .article data-tags="rails ing"}
 - [모아폼](http://www.moaform.com/){: .article data-tags="rails ing"}
 - [밸류포션](http://www.valuepotion.com/){: .article data-tags="rails ing"}
 - [배틀코믹스](http://www.battlecomics.co.kr/){: .article data-tags="rails ing"}
