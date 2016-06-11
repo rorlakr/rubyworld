@@ -53,7 +53,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [카카오톡](http://www.kakao.com/services/8){: .article data-tags="rails ing" }
 - [카카오택시](http://www.kakao.com/services/49){: .article data-tags="rails ing" }
 - [카카오플레이스](http://www.kakao.com/place){: .article data-tags="rails ing" }
-- [카카오드라이버](http://driver.kakao.com){: .article data-tags="rails ing" }
+- [카카오드라이버](http://driver.kakao.com){: .article data-tags="rails ing wanted" }
 - [캐시슬라이드](http://www.cashslide.co.kr){: .article data-tags="rails ing" }
 - [코드라이언](http://codelion.net){: .article data-tags="rails ing" }
 - [크리마](http://cre.ma/){: .article data-tags="rails ing backend" }

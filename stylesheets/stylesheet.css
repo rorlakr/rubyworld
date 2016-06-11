@@ -95,6 +95,9 @@ table {
 .tag-disable {
   background-color: #aaa;
 }
+.tag-wanted {
+  background-color: #F947FF;
+}
 
 /*******************************************************************************
 Theme Styles
