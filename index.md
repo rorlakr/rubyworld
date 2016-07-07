@@ -4,6 +4,7 @@ title: 루비/레일스를 사용하는 서비스 모음
 ---
 
 RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입니다. 여러분의 서비스도 추가해보세요.
+사이트는 RORLAB 웹사이트(http://rorlab.org/websites)에서도 계속 수집하고 있습니다.
 
 - 최종 수정일: {{site.time | date: "%Y-%m-%d"}}
 
