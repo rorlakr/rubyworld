@@ -13,7 +13,7 @@
         return '';
       }
       return tags.split(" ").map(function (tag) {
-        var trans = { ruby: "ruby", rails: "rails", backend: "백엔드로 사용", ing: "운영중", shutdown: "서비스종료" };
+        var trans = { ruby: "ruby", rails: "rails", backend: "백엔드로 사용", ing: "운영중", shutdown: "서비스종료", wanted: "개발자 구인중" };
         return '<a href="#' + tag + '" class="tag tag-' + tag + '">' + (trans[tag] || tag) + '</a>';
       }).join(" ");
     },
