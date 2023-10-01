@@ -83,7 +83,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [연두](http://yeondoo.kr/){: .article data-tags="rails shutdown" }
 - [이젤](http://eazel.co.kr/){: .article data-tags="rails shutdown" }
 - [채팅캣](http://chattingcat.com/){: .article data-tags="rails shutdown" }
-- [카카오플레이스](http://www.kakao.com/place){: .article data-tags="rails shutdown" }
+- [카카오플레이스](https://web.archive.org/web/20160809144332/http://www.kakao.com/place){: .article data-tags="rails shutdown" }
 - [팡요](http://pangyo.ca/){: .article data-tags="rails shutdown" }
 - [플레인](http://www.kakao.com/services/44){: .article data-tags="rails shutdown" }
 - [호텔박사](http://hotelbaksa.com/){: .article data-tags="rails shutdown" }
