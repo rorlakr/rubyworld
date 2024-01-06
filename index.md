@@ -35,6 +35,7 @@ RubyWorld 루비/레일스를 사용하는 서비스를 모아둔 사이트입�
 - [스냅샵](https://gosnapshop.com/){: .article data-tags="rails ing" }
 - [스탬프팡](http://stampang.com/){: .article data-tags="rails ing" }
 - [스트라입스](https://stripes.co.kr/){: .article data-tags="rails ing" }
+- [스팬딧](https://www.spendit.kr/){: .article data-tags="rails ing"}
 - [셀잇](https://www.withsellit.com){: .article data-tags="rails ing" }
 - [아이노알바](http://www.iknowalba.com/){: .article data-tags="rails ing" }
 - [아이엠스쿨](http://www.iamschool.net/){: .article data-tags="rails ing" }
